@@ -1,6 +1,6 @@
 # CPL-Lab: C Programming Lab Assignments
 
-This repository contains a collection of C programs created for the Computer Programming and Logic (CPL) lab. These assignments cover fundamental concepts of the C programming language, from basic arithmetic to searching algorithms.
+This repository contains a collection of C programs created for the Computer Programming Language (CPL) lab. These assignments cover fundamental concepts of the C programming language, from basic arithmetic to searching algorithms.
 
 ## Lab Assignments
 
